@@ -1,3 +1,6 @@
+board = [["_" for _ in range(3)] for _ in range(3)]
+
+
 def init_board():
     """Returns an empty 3-by-3 board (with .)."""
     board = []
